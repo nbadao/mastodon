@@ -98,7 +98,7 @@
   "closed_registrations_modal.description": "目前不能在 {domain} 上创建账号，但请注意使用 Mastodon 并非必须持有 {domain} 上的账号。",
   "closed_registrations_modal.find_another_server": "查找另一个服务器",
   "closed_registrations_modal.preamble": "Mastodon 是去中心化的，所以无论在哪个实例创建账号，都可以关注本服务器上的账号并与之交流。 或者你还可以自己搭建实例！",
-  "closed_registrations_modal.title": "注册 Mastodon 账号",
+  "closed_registrations_modal.title": "注册账号",
   "column.about": "关于",
   "column.blocks": "屏蔽的用户",
   "column.bookmarks": "书签",
